@@ -19,7 +19,6 @@ import javafx.event.ActionEvent;
 
 import javafx.scene.input.MouseEvent;
 import javafx.util.Callback;
-import porto.java.PortoJava.TableEdit.Person;
 import javafx.scene.control.TableView;
 
 import javafx.scene.control.TableColumn;
